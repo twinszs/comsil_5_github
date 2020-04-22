@@ -1,5 +1,6 @@
 #ifndef __LINKEDLIST__
-#define __LINKEDLIST__ // branch2
+#define __LINKEDLIST__
+// branch2
 
 #include <iostream>
 using namespace std;
