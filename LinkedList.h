@@ -1,4 +1,5 @@
-#ifndef __LINKEDLIST__ // branch1
+#ifndef __LINKEDLIST__
+// branch1
 #define __LINKEDLIST__
 
 #include <iostream>
