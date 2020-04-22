@@ -1,8 +1,6 @@
 /*
 
-
 	branch2
-
 
 */
 #ifndef __LINKEDLIST__
