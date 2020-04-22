@@ -9,8 +9,9 @@ void prnMenu(){
 	cout<<"원하시는 메뉴를 골라주세요: ";
 }
 
-void branch1();
-void branch2();
+void branch2() {
+	int b;
+}
 
 int main(){
 	  int mode, selectNumber;
