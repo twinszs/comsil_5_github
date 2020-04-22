@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "Stack.h"
-
+//branch1
+//branch2
+//branch3
 void prnMenu(){
 	cout<<"*******************************************"<<endl;
 	cout<<"* 1. 삽입    2. 삭제    3. 출력   4. 종료 *"<<endl;
