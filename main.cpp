@@ -9,6 +9,8 @@ void prnMenu(){
 	cout<<"원하시는 메뉴를 골라주세요: ";
 }
 
+void branch1();
+
 int main(){
 	  int mode, selectNumber;
 		double tmpItem;
